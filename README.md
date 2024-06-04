@@ -1,4 +1,4 @@
-Hi! Welcome to Maize-Runner... A student led trading algorithm focusing on corn futures on the chicago board of trade.
+Hi! Welcome to Maize-Runner... A student led trading algorithm focusing on corn futures on the chicago board of trade. Currenetely we are focusing on implementing various factors into price-prediction software. 
 
 We hope to provide an excellent and accurate resource for prediciting movement over a 1-2 year period. 
 
